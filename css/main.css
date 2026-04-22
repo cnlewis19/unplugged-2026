@@ -169,6 +169,13 @@ aside {
   display: flex;
   justify-content: center;
 }
+
+.faq .content-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-flow: row wrap;
+}
   
   /* ==========================================================================
    Helper classes
