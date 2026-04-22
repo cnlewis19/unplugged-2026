@@ -142,11 +142,11 @@ aside {
   display: flex;
   justify-content: center;
 }
-
 .features .features-items{
   display: flex;
   justify-content: center;
   align-items: flex-start;
+  flex-flow: row wrap;
 }
 
 /*Reviews*/
